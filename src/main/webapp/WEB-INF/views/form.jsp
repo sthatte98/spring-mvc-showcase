@@ -16,6 +16,9 @@
 		<p>
 			See the <code>org.springframework.samples.mvc.form</code> package for the @Controller code	
 		</p>
+<p> 
+********************************************** This is line added by me *******************************************
+</p>
 		<form:form id="form" method="post" modelAttribute="formBean" cssClass="cleanform">
 			<div class="header">
 		  		<h2>Form</h2>
